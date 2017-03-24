@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Wallpapers &amp; themes</string>
+    <string name="application_name_new">Personalize</string>
+    <string name="system_wallpaper">System wallpapers</string>
+    <string name="wallpaper">Wallpapers</string>
+    <string name="local_theme">Local themes</string>
+    <string name="online_theme">Online themes</string>
+    <string name="theme">Theme</string>
+    <string name="font">Font</string>
+    <string name="local_font">Local fonts</string>
+    <string name="online_font">Online fonts</string>
+    <string name="system_theme">System theme</string>
+    <string name="system_font">System font</string>
+    <string name="eui">EUI</string>
+    <string name="elegant_lady">Elegant lady</string>
+    <string name="gorgeous">Gorgeous</string>
+    <string name="noble_lady">Noble lady</string>
+    <string name="romantic_lady">Romantic lady</string>
+    <string name="thin">Thin</string>
+    <string name="flat">Simple</string>
+    <string name="multicolored">Colorful</string>
+    <string name="eui_tv">EUI TV</string>
+    <string name="elegant">Intelligent and stylish</string>
+    <string name="miyue">The Legend of Mi Yue</string>
+    <string name="yike">Elegant customer</string>
+    <string name="siyuan">Source Han Sans</string>
+    <string name="amoled">AMOLED Theme</string>
+    <string name="guoan">Guo An</string>
+    <string name="state_wifi_network">You are using a Wi-Fi network</string>
+    <string name="state_mobile_network">You are using a cellular network</string>
+    <string name="state_no_network">No network connection</string>
+    <string name="state_network_timeout">Network connection timed out. Please check your connection.</string>
+    <string name="success_download">Downloaded</string>
+    <string name="cancal_download">Download canceled. Tap again to resume the download</string>
+    <string name="set_theme_success">Theme successfully set</string>
+    <string name="set_theme_fail">Failed to set theme</string>
+    <string name="theme_has_downloaded">This theme has been downloaded</string>
+    <string name="make_sure_delete_theme">Delete this theme package?</string>
+    <string name="yes">OK</string>
+    <string name="no">Cancel</string>
+    <string name="le_no_storage_permission">To download this theme, please go to Theme Store settings and enable access to storage.</string>
+    <string name="le_no_read_phone_permission">The theme store is reading the phone status and identity permissions</string>
+</resources>
